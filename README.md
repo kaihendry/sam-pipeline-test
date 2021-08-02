@@ -2,10 +2,10 @@ Following https://aws.amazon.com/blogs/compute/introducing-aws-sam-pipelines-aut
 
 # ETOOMANYBUCKETS
 
-> 2021-08-02 10:32:51 aws-sam-cli-managed-dev-pi-artifactsloggingbucket-1wf5qruk3fagg
-> 2021-08-02 10:33:29 aws-sam-cli-managed-dev-pipeline-artifactsbucket-z4xlskehyu4p
-> 2021-08-02 12:40:52 aws-sam-cli-managed-prod-p-artifactsloggingbucket-b9yvepmw4rv1
-> 2021-08-02 12:41:19 aws-sam-cli-managed-prod-pipeline-artifactsbucket-hnw7exmawtlg
+	aws-sam-cli-managed-dev-pi-artifactsloggingbucket-1wf5qruk3fagg
+	aws-sam-cli-managed-dev-pipeline-artifactsbucket-z4xlskehyu4p
+	aws-sam-cli-managed-prod-p-artifactsloggingbucket-b9yvepmw4rv1
+	aws-sam-cli-managed-prod-pipeline-artifactsbucket-hnw7exmawtlg
 
 # Which secret?
 
